@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name byteworker-eagle-import)(type Legacy)(uri ${KIPRJMOD}/byteworker-eagle-import.lib)(options "")(descr ""))
+)
